@@ -1,1 +1,2 @@
-# class-21-student-activity
+# p5.play-boilerplate
+Boiler plate for p5.play
